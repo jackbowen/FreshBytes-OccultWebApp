@@ -96,8 +96,8 @@ function setup() {
                    darkRaysMask.height * .2625, 
                    darkRaysMask.height * .2, 
                    darkRaysMask.height * .2, 
-                   lightsOn, 
-                   lightsOff);
+                   lightsOff, 
+                   lightsOn);
   lightsOffGlyph.mask(darkRaysMask.get());
 }
 
